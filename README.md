@@ -13,15 +13,13 @@
 <br>
 <h4>ScreenShots</h4>
   <div>
-        <img src="https://github.com/sergiosalomao/CRUDJSF_PRIMEFACES/blob/master/Screenshot/screen1.png">
+        <img src="https://github.com/sergiosalomao/crudSessionPHP/blob/master/crud/screen/screen1.png">
         <br>
-        <img src="https://github.com/sergiosalomao/CRUDJSF_PRIMEFACES/blob/master/Screenshot/screen2.png">
+        <img src="https://github.com/sergiosalomao/crudSessionPHP/blob/master/crud/screen/screen2.png">
         <br>
-       <img src="https://github.com/sergiosalomao/CRUDJSF_PRIMEFACES/blob/master/Screenshot/screen3.png">
+       <img src="https://github.com/sergiosalomao/crudSessionPHP/blob/master/crud/screen/screen3.png">
         <br>
-        <img src="https://github.com/sergiosalomao/CRUDJSF_PRIMEFACES/blob/master/Screenshot/screen4.png">
-          <br>
-        <img src="https://github.com/sergiosalomao/CRUDJSF_PRIMEFACES/blob/master/Screenshot/screen5.png">
+       
 </div>        
    
 </body>
